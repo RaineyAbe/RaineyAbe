@@ -1,6 +1,6 @@
 ### Hello!
 
-- 🔭 I’m currently working on classifying seasonal snow in high-res. optical imagery
+- 🔭 I’m currently working on classifying seasonal snow in Planet imagery
 - 🌱 I’m currently learning digital signal processing techniques and electronics
 - 🤔 I’m looking to collaborate on snow cover detection techniques in glacierized and mountainous areas
 - 🐈‍⬛ Ask me about my cat
