@@ -1,7 +1,7 @@
 ### Hello!
 
-- 🔭 I’m currently working on classifying seasonal snow in Planet imagery
-- 🌱 I’m currently learning digital signal processing techniques and electronics
+- 🔭 I’m currently working on classifying seasonal snow on glacier surfaces using PlanetScope, Landsat, MODIS, and Sentinel-2 imagery
+- 🌱 I’m currently building on my open science and research computing skills
 - 🤔 I’m looking to collaborate on snow cover detection techniques in glacierized and mountainous areas
 - 🐈‍⬛ Ask me about my cat
 - 🌨 I'm working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS lab](https://www.boisestate.edu/earth-cryogars/)
