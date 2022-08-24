@@ -1,12 +1,12 @@
 ### Hello!
 
+- 😄 Pronouns: she/her
 - 🔭 I’m currently working on classifying seasonal snow on glacier surfaces using PlanetScope, Landsat, MODIS, and Sentinel-2 imagery
 - 🌱 I’m currently building on my open science and research computing skills
 - 🤔 I’m looking to collaborate on snow cover detection techniques in glacierized and mountainous areas
 - 🐈‍⬛ Ask me about my cat
 - 🌨 I'm working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS lab](https://www.boisestate.edu/earth-cryogars/)
 - 📫 How to reach me: raineyaberle@u.boisestate.edu
-- 😄 Pronouns: she/her
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
