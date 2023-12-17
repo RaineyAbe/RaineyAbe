@@ -1,6 +1,5 @@
 ### Hello!
 
-- 😄 Pronouns: she/her
 - 🔭 I’m currently working on classifying seasonal snow and detecting annual equilibrium lines on glacier surfaces using PlanetScope, Landsat, and Sentinel-2 imagery
 - 🌱 I’m currently building on my open science and research computing skills
 - 🤔 I’m looking to collaborate on snow cover detection techniques in glacierized and mountainous areas
