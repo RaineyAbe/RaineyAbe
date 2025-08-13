@@ -1,7 +1,7 @@
 ### Hello!
 
 - 🔭 I’m currently working on stereo image processing for snow depth estimation using Planet Lab's SkySat constellation.
-- 🌱 I’m currently building on my open science and research computing skills.
+- 🌱 I’m building on my open science and research computing skills.
 - 🤔 I’m looking to collaborate on snow cover detection techniques in glacierized and mountainous areas.
 - 🐈‍⬛ Ask me about my cat.
 - 🌨 I'm working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS lab](https://github.com/CryoGARS-Glaciology).
